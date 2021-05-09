@@ -1,0 +1,10 @@
+C:\Users\Edimar\Documents\GitHub\Desafio-Webservice\AppUploadArquivos\AppUploadArquivos\bin\Debug\AppUploadArquivos.exe.config
+C:\Users\Edimar\Documents\GitHub\Desafio-Webservice\AppUploadArquivos\AppUploadArquivos\bin\Debug\AppUploadArquivos.exe
+C:\Users\Edimar\Documents\GitHub\Desafio-Webservice\AppUploadArquivos\AppUploadArquivos\bin\Debug\AppUploadArquivos.pdb
+C:\Users\Edimar\Documents\GitHub\Desafio-Webservice\AppUploadArquivos\AppUploadArquivos\obj\Debug\AppUploadArquivos.csprojAssemblyReference.cache
+C:\Users\Edimar\Documents\GitHub\Desafio-Webservice\AppUploadArquivos\AppUploadArquivos\obj\Debug\AppUploadArquivos.Form1.resources
+C:\Users\Edimar\Documents\GitHub\Desafio-Webservice\AppUploadArquivos\AppUploadArquivos\obj\Debug\AppUploadArquivos.Properties.Resources.resources
+C:\Users\Edimar\Documents\GitHub\Desafio-Webservice\AppUploadArquivos\AppUploadArquivos\obj\Debug\AppUploadArquivos.csproj.GenerateResource.cache
+C:\Users\Edimar\Documents\GitHub\Desafio-Webservice\AppUploadArquivos\AppUploadArquivos\obj\Debug\AppUploadArquivos.csproj.CoreCompileInputs.cache
+C:\Users\Edimar\Documents\GitHub\Desafio-Webservice\AppUploadArquivos\AppUploadArquivos\obj\Debug\AppUploadArquivos.exe
+C:\Users\Edimar\Documents\GitHub\Desafio-Webservice\AppUploadArquivos\AppUploadArquivos\obj\Debug\AppUploadArquivos.pdb
